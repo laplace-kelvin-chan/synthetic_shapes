@@ -1,0 +1,5 @@
+outs:
+- md5: 0d64107d7af91470319fea1bd1406d9a.dir
+  size: 2758338
+  nfiles: 20
+  path: ls_keypoint_input

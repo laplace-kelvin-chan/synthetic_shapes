@@ -1,0 +1,5 @@
+outs:
+- md5: 43e18e8a4d7f1d325b2d8abfe7f4b364.dir
+  size: 359065
+  nfiles: 3
+  path: ref

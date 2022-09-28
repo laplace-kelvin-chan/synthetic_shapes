@@ -1,0 +1,5 @@
+outs:
+- md5: 99988f2f3a4510216dd7244c0953d192.dir
+  size: 8786595
+  nfiles: 113
+  path: train_ws

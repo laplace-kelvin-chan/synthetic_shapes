@@ -1,0 +1,5 @@
+outs:
+- md5: 177fe7a867c00e77954966532ba45b91.dir
+  size: 5859099
+  nfiles: 40
+  path: ls_seg_input
